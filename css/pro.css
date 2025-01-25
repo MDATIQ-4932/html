@@ -1,0 +1,37 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+nav {
+    height: 20vh;
+    width:100%;
+    background-color:cadetblue ;
+
+}
+# navleft {
+    width: 60px;
+    float: left;
+}
+
+# navleft img{
+width: 50px;
+display: block;
+margin: 20px 20px 20px 50px;
+}
+# navright{
+margin-top: 35px;
+width: 40px;
+display: block;
+float: left;
+
+
+}
+# navright ul li{
+    background-color: darkgray;
+    padding: 5px;
+    display: block;
+    margin-left: 50px;
+    float: left;
+    list-style: none;
+}
+
